@@ -1,8 +1,16 @@
 h1 {
-    color:pink;
+    color:maroon;
     text-align: center;
 }
 ul.a {
     text-align: center;
-    color:magenta;
+    color:blue;
 }
+#img-container{
+
+    background: url("/../assets/pexels-photo-207301.jpeg") no-repeat  fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
